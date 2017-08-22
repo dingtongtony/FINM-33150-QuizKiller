@@ -1,5 +1,4 @@
 # FINM-33150-QuizKiller
-QuizKiller
 
 Need to add sender email, receiver email, and cookie before using. 
 
